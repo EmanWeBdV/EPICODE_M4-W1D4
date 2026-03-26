@@ -163,7 +163,9 @@ ul {
 #metallica,
 #queen,
 #searchResults,
-#artist-tracks {
+#artist-tracks,
+#searchResults,
+#found {
   color: white;
   font-weight: 700;
   padding-top: 50px;
